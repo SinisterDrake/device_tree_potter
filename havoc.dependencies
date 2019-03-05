@@ -1,18 +1,32 @@
 [
   {
-    "repository":  "android_kernel_motorola_msm8953",
-    "target_path": "kernel/motorola/msm8953"
+    "remote": "github",
+    "repository": "GZR-Kernels/Optimus_Drunk_Potter",
+    "target_path": "kernel/motorola/msm8953",
+    "branch": "9.0"
   },
   {
-    "repository": "android_vendor_motorola_potter",
-    "target_path": "vendor/motorola/potter"
+    "remote": "github",
+    "repository": "PixelExperience/packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions",
+    "branch": "pie"
   },
   {
-    "repository": "packages_resources_MotoActions",
-    "target_path": "packages/resources/MotoActions"
+    "remote": "github",
+    "repository": "LineageOS/android_system_qcom",
+    "target_path": "system/qcom",
+    "branch": "lineage-16.0"
   },
   {
-    "repository": "android_prebuilts_clang_host_linux-x86_clang-5220042",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-5220042"
+    "remote": "github",
+    "repository": "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-5271481",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-5271481",
+    "branch": "9.0"
+  },
+  {
+    "remote": "github",
+    "repository": "ArrowOS-Devices/android_vendor_motorola_potter",
+    "target_path": "vendor/motorola/potter",
+    "branch": "arrow-9.x"
   }
 ]
